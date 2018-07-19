@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookParadise</string>
+    <string name="search_text">Search it!!!</string>
+    <string name="hint_string">Enter the book name</string>
+</resources>
